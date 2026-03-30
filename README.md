@@ -1,7 +1,3 @@
-# Javascript-Intro
-Here’s a polished **README.md** you can use for a self-guided JavaScript intro lab.
-
-````markdown
 # JavaScript Introduction Lab
 
 ## Overview
@@ -37,9 +33,9 @@ By completing this lab, you will be able to:
 4. Open the terminal in VS Code
 5. Run your code with:
 
-```bash
+bash
 node lab.js
-````
+
 
 ### Option 2: Browser Console
 
